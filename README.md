@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaitz</h1>
-<h3 align="center">A passionate developer from Basque Country</h3>
+<h3 align="center">A passionate developer from Basque Country, Spain</h3>
 
 - 📫 How to reach me **alaitzye@gmail.com**
 
